@@ -3,8 +3,9 @@ This repository contain hacker rank problem and their solution in Python and C++
 
 
 # Upload sequence -
-  1. Flipping bits
-  2. CamelCase
-  3. Alphabet Rangoli
-  4. Service Lane
-  5. Flatland Space Stations
+  1. Flipping bits ( C++ and Python solution )
+  2. CamelCase ( C++ and Python solution )
+  3. Alphabet Rangoli ( C++ and Python solution )
+  4. Service Lane ( C++ and Python solution )
+  5. Flatland Space Stations ( C++ and Python solution )
+  6. 
