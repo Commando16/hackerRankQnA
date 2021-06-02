@@ -9,4 +9,4 @@ This repository contain hacker rank problem and their solution in Python and C++
   4. Service Lane ( C++ and Python solution )
   5. Flatland Space Stations ( C++ and Python solution )
   6. FairRatio ( C++ solution )
-  7. 
+  7. HappyLadybugs ( Python solution )
