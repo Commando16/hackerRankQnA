@@ -3,12 +3,14 @@ This repository contain hacker rank problem and their solution in Python and C++
 
 
 # Upload sequence -
-  1. Flipping bits            ( C++ and Python solution )
-  2. CamelCase                ( C++ and Python solution )
-  3. Alphabet Rangoli         ( C++ and Python solution )
-  4. Service Lane             ( C++ and Python solution )
-  5. Flatland Space Stations  ( C++ and Python solution )
-  6. FairRatio                ( C++ solution )
-  7. HappyLadybugs            ( Python solution )
-  8. The Minion Game          ( C++ and Python solution )
-  9. ReducedString            ( C++ and Python solution )
+  01. Flipping bits            ( C++ and Python solution )
+  02. CamelCase                ( C++ and Python solution )
+  03. Alphabet Rangoli         ( C++ and Python solution )
+  04. Service Lane             ( C++ and Python solution )
+  05. Flatland Space Stations  ( C++ and Python solution )
+  06. FairRatio                ( C++ solution )
+  07. HappyLadybugs            ( Python solution )
+  08. The Minion Game          ( C++ and Python solution )
+  09. ReducedString            ( C++ and Python solution )
+  10. StrangeCounter           ( Python solution )
+  11. Beautiful Triplet        ( Python solution )
