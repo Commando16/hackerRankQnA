@@ -14,3 +14,4 @@ This repository contain hacker rank problem and their solution in Python and C++
   09. ReducedString            ( C++ and Python solution )
   10. StrangeCounter           ( Python solution )
   11. Beautiful Triplet        ( Python solution )
+  12. Hackerrank in a string   ( Python solution )
