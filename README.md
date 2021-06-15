@@ -16,3 +16,4 @@ This repository contain hacker rank problem and their solution in Python and C++
   11. Beautiful Triplet        ( Python solution )
   12. Hackerrank in a string   ( Python solution )
   13. Hash Tables Ransom Note  ( Python solution )
+  14. No idea                  ( Python solution )
