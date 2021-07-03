@@ -20,4 +20,8 @@ This repository contain hacker rank problem and their solution in Python and C++
   15. Queen attack2            ( Python solution )
   16. Acm-icpc-team            ( Python solution )
   17. equality_in_a_array      ( Python solution )
-  18. 
+  18. Left Rotation            ( Python solution )
+  19. Equal Stacks             ( Python solution )
+  20. Almost-sorted            ( Python solution )
+  21. 3d-surface-area          ( Python solution )
+  22. Designer-door-mat        ( Python solution )
