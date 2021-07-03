@@ -19,4 +19,5 @@ This repository contain hacker rank problem and their solution in Python and C++
   14. No idea                  ( Python solution )
   15. Queen attack2            ( Python solution )
   16. Acm-icpc-team            ( Python solution )
-  17. 
+  17. equality_in_a_array      ( Python solution )
+  18. 
