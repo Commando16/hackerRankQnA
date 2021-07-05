@@ -34,4 +34,9 @@ This repository contain hacker rank problem and their solution in Python and C++
   29. Lisa-workbook            ***( Python solution )***
   30. Single lane highway      ***( Python solution )***
   31. Cavity map               ***( Python solution )***
+  32. The Love Letter Mystery  ***( Python solution )***
+  33. Mars Exploration         ***( Python solution )***
+  34. Strong Password          ***( Python solution )***
+  35. Two_Characters           ***( Python solution )***
+  36. Weighted_Uniform_String  ***( Python solution )***
  
